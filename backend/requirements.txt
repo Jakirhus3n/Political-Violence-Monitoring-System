@@ -1,0 +1,6 @@
+```txt
+fastapi
+uvicorn
+requests
+beautifulsoup4
+spacy

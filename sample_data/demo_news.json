@@ -1,0 +1,13 @@
+[
+  {
+    "id": 1,
+    "title": "Political violence demo news",
+    "location": "Dhaka",
+    "injured": 2,
+    "killed": 1,
+    "political_party": "Demo Party",
+    "lat": 23.8103,
+    "lng": 90.4125,
+    "date": "2025-07-14"
+  }
+]
